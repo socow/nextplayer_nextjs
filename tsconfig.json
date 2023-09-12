@@ -27,7 +27,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/app/lib/registry.tsx"
+    "src/app/Registry.tsxnents.tsx"
   ],
   "exclude": ["node_modules"]
 }
